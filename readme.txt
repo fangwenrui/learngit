@@ -6,5 +6,5 @@ Creating a new branch is quick and  simple
 
 
 add merge  jjj 1 2 34 5
->>>>>>> Stashed changes
+
  
